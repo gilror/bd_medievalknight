@@ -13,6 +13,8 @@ Creación de un videojuego con las herramientas Unity C# y JS, el juego pretende
 - Jessica Castillo Paredes
 - Brenda Paola Flores Carcaño
 - Gilberto Rodriguez Ramirez
+-Soledad Reyes Martínez
+
 
 # Datos Académicos
 Universidad Tecnológica de Xicotepec de Juarez
