@@ -12,8 +12,9 @@ Creación de un videojuego con las herramientas Unity C# y JS, el juego pretende
 - Angel Enrique Cruz Gonzalez
 - Jessica Castillo Paredes
 - Brenda Paola Flores Carcaño
+- Soledad Reyes Martínez
 - Gilberto Rodriguez Ramirez
--Soledad Reyes Martínez
+
 
 
 # Datos Académicos
